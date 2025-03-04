@@ -1,12 +1,51 @@
-# React + Vite
+# To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple **To-Do App** built with **React + Vite** that allows users to add, delete, and mark tasks as completed.
 
-Currently, two official plugins are available:
+## 📌 Features
+- Add New Tasks ✅
+- Delete Tasks 🗑️
+- Mark Tasks as Completed 🔥
+- Responsive Design 📱💻
+- Local Storage Support (Tasks will not be lost even after refreshing the page)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- React 19
+- Vite
+- CSS
+- Local Storage
 
-## Expanding the ESLint configuration
+## 🚀 How to Run Locally
+1. Clone this repository:
+```bash
+git clone https://github.com/Peter5074/todo-app.git
+```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Navigate to the project folder:
+```bash
+cd todo-app
+```
+
+3. Install dependencies:
+```bash
+npm install
+```
+
+4. Start the development server:
+```bash
+npm run dev
+```
+
+5. Open the app in your browser at:
+```
+http://localhost:5173
+```
+
+## 🔗 Live Demo
+👉 [Visit Live Site](https://Peter5074.github.io/todo-app)
+
+## 🎯 Author
+- **Suraj Kumar**
+
+If you like this project, don't forget to give it a ⭐ on GitHub!
+
